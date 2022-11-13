@@ -12,7 +12,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+ 
 
 <c:set var="titulo" value="Este es el TITULO de la PAGINA"/>
 

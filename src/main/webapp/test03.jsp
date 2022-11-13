@@ -6,7 +6,7 @@
 <%@page import="pe.edu.tecsup.dto.Pregunta"%>
 
 <%@page import="java.util.*"%>
-
+ 
 <!DOCTYPE html>
 <html>
 <head>
